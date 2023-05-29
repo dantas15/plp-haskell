@@ -1,3 +1,8 @@
+# Ignore executables
+*
+!*.*
+!*/
+
 dist
 dist-*
 cabal-dev
